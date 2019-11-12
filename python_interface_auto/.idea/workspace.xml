@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="162bdb8f-6a18-41c3-9175-866bae7fb98c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_interface$Twisted_Trial_for_run_activity_ActivityInterface.coverage" NAME="Twisted Trial for run_activity.ActivityInterface Coverage Results" MODIFIED="1573544171827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/python_interface$Twisted_Trial_for_run_test_TestClass_test_user_info_query_no_login.coverage" NAME="Twisted Trial for run_test.TestClass.test_user_info_query_no_login Coverage Results" MODIFIED="1573543713298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/python_interface$all_interfaces.coverage" NAME="all_interfaces Coverage Results" MODIFIED="1573544287642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/python_interface$Twisted_Trial_for_run_test_TestsInterface_test_user_info_query_no_login.coverage" NAME="Twisted Trial for run_test.TestsInterface.test_user_info_query_no_login Coverage Results" MODIFIED="1573541225789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/python_interface$Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie.coverage" NAME="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie Coverage Results" MODIFIED="1573544202439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/python_interface$Twisted_Trial_for_run_test_TestInterface_test_user_info_query_no_login.coverage" NAME="Twisted Trial for run_test.TestInterface.test_user_info_query_no_login Coverage Results" MODIFIED="1573541264990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-595714414">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="lastfailed" value="1" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1" />
+          <entry key="nodeids" value="1" />
+          <entry key="py" value="32" />
+          <entry key="readme" value="3" />
+          <entry key="stepwise" value="1" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Log" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="32" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="31" />
+          <entry key="log" value="1" />
+          <entry key="py" value="272" />
+          <entry key="readme" value="4" />
+          <entry key="xml" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Log" value="1" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="272" />
+          <entry key="XML" value="51" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-900743949">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="py" value="11" />
+          <entry key="readme" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Log" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="11" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="readme" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18175">
+              <caret line="735" selection-start-line="735" selection-end-line="735" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/datafile/input/scode/BindCheck.xml" />
+        <option value="$PROJECT_DIR$/datafile/input/Test/TestInterface.xml" />
+        <option value="$PROJECT_DIR$/datafile/input/test/TestInterface.xml" />
+        <option value="$PROJECT_DIR$/src/run_test.py" />
+        <option value="$PROJECT_DIR$/tools/ExSendEmail.py" />
+        <option value="$PROJECT_DIR$/tools/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/logs/output.log" />
+        <option value="$PROJECT_DIR$/src/all_interfaces.py" />
+        <option value="$PROJECT_DIR$/src/activity/get_popup_info.py" />
+        <option value="$PROJECT_DIR$/datafile/input/activity/GetPopupInfo.xml" />
+        <option value="$PROJECT_DIR$/src/test/get_popup_info.py" />
+        <option value="$PROJECT_DIR$/src/test/test_interface.py" />
+        <option value="$PROJECT_DIR$/src/run_activity.py" />
+        <option value="$PROJECT_DIR$/src/common/refresh_cache.py" />
+        <option value="$PROJECT_DIR$/src/common/db_manager.py" />
+        <option value="$PROJECT_DIR$/src/common/constant.py" />
+        <option value="$PROJECT_DIR$/datafile/interface.xml" />
+        <option value="$PROJECT_DIR$/doc/readme" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="395" />
+    <option name="y" value="37" />
+    <option name="width" value="1918" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_interface_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interface_auto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_interface_auto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_interface_auto" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MALL\python_interface\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.all_interfaces">
+    <configuration name="all_interfaces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/all_interfaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for run_activity.ActivityInterface" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="python_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;run_activity.ActivityInterface&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="python_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for run_test.TestClass.test_user_info_query_no_login" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="python_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;run_test.TestClass.test_user_info_query_no_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for run_test.TestInterface.test_user_info_query_no_login" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="python_interface" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;run_test.TestInterface.test_user_info_query_no_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Twisted Trial for run_test.TestInterface.test_user_info_query_no_login" />
+      <item itemvalue="Python tests.Twisted Trial for run_test.TestClass.test_user_info_query_no_login" />
+      <item itemvalue="Python tests.Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" />
+      <item itemvalue="Python tests.Twisted Trial for run_activity.ActivityInterface" />
+      <item itemvalue="Python.all_interfaces" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.all_interfaces" />
+        <item itemvalue="Python tests.Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" />
+        <item itemvalue="Python tests.Twisted Trial for run_activity.ActivityInterface" />
+        <item itemvalue="Python tests.Twisted Trial for run_test.TestClass.test_user_info_query_no_login" />
+        <item itemvalue="Python tests.Twisted Trial for run_test.TestInterface.test_user_info_query_no_login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="162bdb8f-6a18-41c3-9175-866bae7fb98c" name="Default Changelist" comment="" />
+      <created>1573540235764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573540235764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_for_run_test_TestClass_test_user_info_query_no_login - 2019.11.12 at 15h 28m 31s.xml">
+      <configuration name="Twisted Trial for run_test.TestClass.test_user_info_query_no_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_test_TestClass_test_user_info_query_no_login - 2019.11.12 at 15h 28m 33s.xml">
+      <configuration name="Twisted Trial for run_test.TestClass.test_user_info_query_no_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 32m 15s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 32m 41s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 33m 44s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 34m 00s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 34m 36s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 34m 58s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface - 2019.11.12 at 15h 36m 12s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_run_activity_ActivityInterface_test_get_popup_info_without_param_without_cookie - 2019.11.12 at 15h 36m 42s.xml">
+      <configuration name="Twisted Trial for run_activity.ActivityInterface.test_get_popup_info_without_param_without_cookie" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="395" y="37" width="1918" height="944" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16846071" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.23827161" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2074074" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/run_test.py" />
+    <entry file="file://$PROJECT_DIR$/../测试执行(auto)/venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2700" />
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/product_sku_control.py" />
+    <entry file="file://$PROJECT_DIR$/src/common/order_control.py" />
+    <entry file="file://$PROJECT_DIR$/src/.pytest_cache/v/cache/lastfailed" />
+    <entry file="file://$PROJECT_DIR$/src/.pytest_cache/v/cache/stepwise" />
+    <entry file="file://$PROJECT_DIR$/src/.pytest_cache/v/cache/nodeids" />
+    <entry file="file://$PROJECT_DIR$/src/.pytest_cache/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/.pytest_cache/README.md" />
+    <entry file="file://$PROJECT_DIR$/datafile/input/test/TestInterface.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datafile/interface.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/output.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/constant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-565">
+          <caret line="33" column="14" lean-forward="true" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/db_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/refresh_cache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common/request_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#25#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test_interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding>
+            <element signature="e#25#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/all_interfaces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run_activity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#25#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/ExSendEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <element signature="e#39#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18175">
+          <caret line="735" selection-start-line="735" selection-end-line="735" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

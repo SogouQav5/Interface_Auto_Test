@@ -1,0 +1,65 @@
+
+#####################################################
+
+
+0. 框架
+   unittest + requests + HTMLTestRunner
+
+
+#####################################################
+
+
+1. 项目结构
+
+  # datafile
+    维护接口请求url和默认入参，均为xml格式
+    接口地址统一维护在datafile/interface.xml中，根据module_name和classname定位url
+    默认入参维护在datafile/input/module_name/classname.xml中，根据classname遍历xml文件
+
+  # doc
+    readme
+
+  # logs
+    存放output.log
+    output.log：接口case运行时log，在需要打log的位置自行添加，便于case执行失败后定位问题，level已设置为logging.NOTEST
+
+  # report
+    存放测试报告，命名时已添加时间戳，防止覆盖
+
+  # src
+    common：维护公共方法
+        constant.py：维护常量和通用方法，方法包括获取cookie、获取接口测试地址、获取接口默认输入参数
+        db_manager.py：封装数据库相关操作，包括连接、查询和修改，使用时提供database和sql即可
+        request_interface.py：封装请求接口方法，使用时提供请求方式(method)、接口url(url)和入参(params)即可
+    功能模块：维护每个接口的通用方法，包括返回请求结果、数据库内容等
+    run_*.py：维护用例，一条case对应一个test_*方法，对功能模块返回的内容进行处理，设置检查点
+    all_interfaces.py：执行文件，根据自定义的pattern来加载测试用例并执行，调用HTMLTestRunner输出测试报告，并通过邮件发送给相关人员
+
+  # tools
+    存放引用的第三方库，拷贝至本地python lib即可
+
+
+#####################################################
+
+
+2. 添加case步骤概要
+   a. 在datafile/interface.xml中维护接口地址，注意二级节点需要以模块名称命名，与src中模块名称保持一致
+   b. 如果需要使用默认入参，在datafile/input/module_name/classname.xml维护默认参数key-value键值对
+   c. 在src目录下新建模块(Pyhthon Package，如果文件夹已经存在，跳过)
+   d. 在模块下新建python file，命名随意，目前都是用接口url最后一段命名
+   e. 在新建的python file中维护接口请求、数据库操作、调用其他接口等功能，根据实际可调整，接口请求方法通过修改init函数中的self.method实现
+   f. 在src目录下新建run_+modulename的python file，该文件用于维护用例
+   g. 在run*.py文件中新建case，每个test_*方法对应一条case，在test_*方法内部调用e步骤的方法，获取接口和数据库返回内容，根据实际场景对数据进行处理
+
+
+#####################################################
+
+
+3. 注意事项
+   a. datafile/input/module_name/classname.xml文件中，如果维护了key，就添加一个对应的value，否则读xml时会报错
+   b. 由于使用了美化后的HTMLTestRunner，所以不要在方法中写print（调试时可用，后期注释掉即可），不然在发送的邮件中会将包含print语句的方法展开（默认是Fail和Error的case才会展开）
+   c. 使用语言为python2.7
+
+
+#####################################################
+
